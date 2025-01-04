@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !*.hs
+!README.md
 
 # ...even if they are in subdirectories
 !*/
