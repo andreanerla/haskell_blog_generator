@@ -5,7 +5,3 @@
 --newtype Html = Html String
 newtype CompleteHtml = CompleteHtml String
 newtype ComponentHtml = ComponentHtml String
-
-
-
-
